@@ -1,0 +1,19 @@
+{
+  "name": "turbot",
+  "version": "0.0.0",
+  "description": "A Json builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adogio/Turbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adogio/Turbot/issues"
+  },
+  "homepage": "https://github.com/adogio/Turbot#readme"
+}
